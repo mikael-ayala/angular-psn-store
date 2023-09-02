@@ -1,0 +1,18 @@
+.card-pricing__container {
+	align-items: center;
+	background-color: rgba(0,0,0,0.8);
+	color: antiquewhite;
+	font-family: 'Calibri', sans-serif;
+	display: flex;
+	height: 50px;
+	justify-content: space-evenly;
+	position: absolute;
+		bottom: 0;
+		left: 0;
+	width: 100%;
+
+	span {
+		color: aqua;
+		font-weight: bold;
+	}
+}

@@ -1,0 +1,9 @@
+<main class="home__container">
+	<app-card
+		*ngFor="let g of game"
+		gameCover="{{g.gameCover}}"
+		cardLabel="{{g.cardLabel}}"
+		cardConsole="{{g.cardConsole}}"
+		cardPrice="{{g.cardPrice}}"
+	></app-card>
+</main>
