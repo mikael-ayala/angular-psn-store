@@ -10,22 +10,22 @@ export class HomeComponent implements OnInit {
 
 	game: IGame[] = [
 		{
-			gameCover: 'assets/bt-1.jpg',
-			cardConsole: 'PS5',
-			cardLabel: 'Exclusive',
-			cardPrice: '299,90'
+			gameCover: 'assets/lies-of-p.jpeg',
+			cardConsole: 'Xbox Series X/S',
+			cardLabel: 'Game Pass Ultimate',
+			cardPrice: 'R$ 300,00'
 		},
 		{
-			gameCover: 'assets/bt-4.jpg',
-			cardConsole: 'PS4',
-			cardLabel: 'Digital',
-			cardPrice: '199,90'
+			gameCover: 'assets/forza-motorsport.jpeg',
+			cardConsole: 'Xbox Series X/S',
+			cardLabel: 'Game Pass Ultimate',
+			cardPrice: 'R$ 449,00'
 		},
 		{
-			gameCover: 'assets/bt-5.jpg',
-			cardConsole: 'PS5',
-			cardLabel: 'Exclusive',
-			cardPrice: '350,00'
+			gameCover: 'assets/sea-of-stars.jpeg',
+			cardConsole: 'Xbox Series X/S',
+			cardLabel: 'Game Pass Ultimate',
+			cardPrice: 'R$ 99,95'
 		},
 	]
 
